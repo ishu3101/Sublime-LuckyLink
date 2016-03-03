@@ -2,6 +2,10 @@
 
 A Sublime Text plugin that transforms the selected text into Google's top URL for that search. For eg: `sublime text` becomes https://www.sublimetext.com/
 
+## Demo
+
+![alt text][Demo]
+
 ## Installation
 
 The plugin can be installed manually using one of the following
@@ -19,3 +23,5 @@ using the command below:
 * Download the files using the .zip download option
 * Unzip the files (and rename the folder to Lucky Link if needed)
 * Copy the folder to your Sublime Text Packages directory
+
+[Demo]: demo.gif "Demo"

@@ -1,1 +1,1 @@
-# Sublime-LuckyLink
+# Sublime LuckyLink

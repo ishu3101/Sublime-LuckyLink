@@ -25,3 +25,7 @@ using the command below:
 * Copy the folder to your Sublime Text Packages directory
 
 [Demo]: demo.gif "Demo"
+
+## Usage
+
+Open the Command Palette using `Tools -> Command Palette` or `Ctrl+Shift+P`, then search for `Lucky Link`

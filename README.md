@@ -8,7 +8,10 @@ A Sublime Text plugin that transforms the selected text into Google's top URL fo
 
 ## Installation
 
-The plugin can be installed manually using one of the following
+The easiest way to install this plugin, is to use the [Package Control](https://packagecontrol.io/)
+plugin, by [Will Bond](http://wbond.net/)
+
+Alternatively, the plugin can be installed manually using one of the following
 methods.
 
 ### Using Git
